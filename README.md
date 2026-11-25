@@ -88,13 +88,15 @@ It has its own built-in protocol client and uses the **Wintun** virtual adapter.
 
 VPN Gate servers are run by **volunteers**. Do not send passwords, banking data or anything sensitive through servers you do not trust, and use the VPN in accordance with the laws of your country. This is a hobby project provided **"as is"**, without any warranty.
 
-## 🙏 Credits
+## 👤 Authors
 
-- [VPN Gate Academic Experiment Project](https://www.vpngate.net), University of Tsukuba, for the public server network.
-- [SoftEther VPN](https://www.softether.org) protocol.
-- [Wintun](https://www.wintun.net) virtual network adapter by WireGuard.
+**[Cyrexdxrk]**: developer
+- Telegram: [@cyrexdxrk](https://t.me/cyrexdxrk)
 
----
+**[Voxicurse]**: co-author
+- Telegram: [@Voxicurse](https://t.me/Voxicurse)
+
+Found a bug or have an idea? Message us directly.
 
 <details>
 <summary><h2>🇷🇺</summary>
@@ -171,6 +173,17 @@ VPN Gate servers are run by **volunteers**. Do not send passwords, banking data 
 ## ⚠️ Отказ от ответственности
 
 Серверы VPN Gate содержат **добровольцы**. Не передавайте пароли, банковские данные и другую важную информацию через серверы, которым не доверяете, и пользуйтесь VPN в соответствии с законами вашей страны. Это любительский проект, который распространяется **«как есть»**, без каких-либо гарантий.
+
+
+## 👤 Авторы
+
+**[Cyrexdxrk]**: разработчик
+- Telegram: [@cyrexdxrk](https://t.me/cyrexdxrk)
+
+**[Voxicurse]**: соавтор
+- Telegram: [@Voxicurse](https://t.me/Voxicurse)
+
+Нашли ошибку или есть идея? Напишите нам.
 
 
 </details>
