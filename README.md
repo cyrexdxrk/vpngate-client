@@ -97,7 +97,7 @@ VPN Gate servers are run by **volunteers**. Do not send passwords, banking data 
 ---
 
 <details>
-<summary><h2>🇷🇺 Русская версия (нажмите, чтобы открыть)</h2></summary>
+<summary><h2>🇷🇺</summary>
 
 ## ✨ Что это?
 
