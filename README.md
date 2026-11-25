@@ -19,7 +19,7 @@ No OpenVPN. No SoftEther Client. Just run it and connect.
 
 **VPNGate Client** is a standalone desktop app that connects you to free volunteer-run servers from the official [VPN Gate](https://www.vpngate.net) project.
 
-It has its own built-in SoftEther protocol client and uses the **Wintun** virtual adapter, so you do **not** need to install OpenVPN or SoftEther VPN Client. One program, one window, one button.
+It has its own built-in protocol client and uses the **Wintun** virtual adapter. One program, one window, one button.
 
 ## 🚀 Features
 
